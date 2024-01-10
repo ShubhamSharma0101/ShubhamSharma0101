@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">A passionate Python/MEAN Full Stack Developer from India</h3>
 
-<img align="right" alt="codeing" width="100%" height="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ux04amu3aydogi34ikdpyk6x78nebfoltbuty64n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsharma0101&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsharma0101" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsharma0101&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsharma0101" /> </p>
 
 - 🔭 I’m currently working on **Self Portfolio**
 
@@ -22,6 +19,11 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/shubhamsharma0101/](https://www.linkedin.com/in/shubhamsharma0101/)
 
 - ⚡ Fun fact **I Am Non IT**
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
