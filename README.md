@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D5616AQEGYPrE5Y4zzQ/profile-displaybackgroundimage-shrink_350_1400/0/1684526902166?e=1710374400&v=beta&t=pjiHFbd5D6DSXucDF0SJo5WDzJ2xbHS1a4RykVRv13Y)
+
 
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">A passionate Python/MEAN Full Stack Developer from India</h3>
